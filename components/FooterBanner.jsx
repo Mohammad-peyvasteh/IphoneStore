@@ -12,8 +12,8 @@ const FooterBanner = ({ footerBanner: { discount, largeText1, largeText2, saleTi
           <p>{saleTime}</p>
         </div>
         <div className="right">
-          <p>{smallText}</p>
-          <h3>Good Vibes</h3>
+          <p>Good vibes</p>
+          <h3>Iphone Store</h3>
           <p>{desc}</p>
           
             <button type='button'>{buttonText}</button>
